@@ -1,0 +1,8 @@
+bb.   b  rb 
+  rb  p.   .
+       r   p
+o  r    b   
+ p      r  .
+ b    p    p
+  r .    b  
+    r  r    
