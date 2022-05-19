@@ -1,7 +1,7 @@
 # possunen
 Tasohyppelypeli Possusen kiireinen päivä
 
-Peli on tehty Jyväskylän yliopiston Ohjelmointi 1 -kurssin harjoitustyönä 2019.
+Peli on tehty Jyväskylän yliopiston Ohjelmointi 1 -kurssin harjoitustyönä 2019. Kuvat olen tehnyt Adobe Illustratorilla. 
 Peli hyödyntää Jypeli-kirjastoa, https://github.com/Jypeli-JYU
 
 Pelin tarina:
